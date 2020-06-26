@@ -96,10 +96,8 @@ for each is called a *label*.
 {: .challenge}
 
 
-
-[ep2]: https://huppenkothen.org/machine-learning-tutorial/02-ProblemSetUp/index.html
-[candy_data]: https://github.com/dhuppenkothen/machine-learning-tutorial/tree/gh-pages/data 
-[candy_template]: https://github.com/AstroHackWeek/AstroHackWeek2018/tree/master/day3_machine_learning
-
+[ep2]: https://ecml2020-teaching-candy.github.io/machine-learning-with-candy/02-ProblemSetUp/index.html
+[candy_data]: https://github.com/ecml2020-teaching-candy/machine-learning-with-candy/tree/master/data
+[candy_template]: https://github.com/ecml2020-teaching-candy/machine-learning-with-candy/tree/master/files
 
 {% include links.md %}
