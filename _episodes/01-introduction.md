@@ -98,10 +98,6 @@ to very wrong--take a central role in this tutorial, reflecting their important 
 the model building process. 
 
 
-This tutorial owes a lot to previous machine learning tutorials at [Astro Hack Week][ahw],
-especially Iain Murray's and Gilles Louppe's [tutorials](ml2018) and Adrian Price-Whelan and David W Hogg's [tutorial](ml2017). It is also a follow-up on Gwen Eadie's [paper](mmpaper) on teaching Bayesian statistics with 
-M&Ms. Because what better way to learn statistics and machine learning through chocolate?
-
 > ## Challenge
 >
 > Can you think of situations in your own life where you think implementing a 
