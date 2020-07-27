@@ -22,5 +22,5 @@ the "Save Data as" option to save the file to your computer.
 
 
 [anaconda]: https://www.anaconda.com/products/individual
-[sweets_data]: https://github.com/dhuppenkothen/machine-learning-tutorial/blob/gh-pages/data/sweets_data_200611.tsv
+[sweets_data]: https://github.com/ecml2020-teaching-candy/machine-learning-with-candy/tree/gh-pages/files
 {% include links.md %}

@@ -91,10 +91,8 @@ repository for reference while revising.
 
 You can also [reach us by email][email].
 
-[email]: mailto:dhuppenk@uw.edu
 [github]: https://github.com
 [github-flow]: https://guides.github.com/introduction/flow/
 [github-join]: https://github.com/join
 [how-contribute]: https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github
 [issues]: https://guides.github.com/features/issues/
-[thisrepo]: https://github.com/dhuppenkothen/bayesian-statistics-tutorial
