@@ -9,7 +9,7 @@
 # cp: Carpentries (to use for instructor traning for instance)
 
 # Overall title for pages.
-title: "Machine Learning"
+title: "Machine Learning with Candies"
 
 # Life cycle stage of the lesson
 # possible values: "pre-alpha", "alpha", "beta", "stable"
@@ -28,7 +28,7 @@ kind: "lesson"
 repository: <USERNAME>/<PROJECT>
 
 # Email address, no mailto:
-email: "dhuppenk@uw.edu"
+email: "Anonymized for ECML Submission"
 
 # Sites.
 amy_site: "https://amy.software-carpentry.org/workshops"
